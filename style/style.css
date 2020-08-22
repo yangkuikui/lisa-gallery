@@ -65,7 +65,7 @@ body {
   }
   
   .hero p {
-    font-size:1.18rem;
+    font-size:1.3rem;
     line-height: 1.6;
   }
   
@@ -102,6 +102,9 @@ body {
   }
   .featured-item img {
       width:100%;
+      margin:0;
+      text-align: center;
+      border:5px solid rgba(0,0,0,.15);
  
   }
   
